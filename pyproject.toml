@@ -1,0 +1,11 @@
+[project]
+name = "cognify"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "requests>=2.33.1",
+    "streamlit>=1.56.0",
+]
